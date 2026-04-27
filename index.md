@@ -34,6 +34,10 @@ When comparing average difficulty by major, the results were somewhat hard to in
 
 ![Average Difficulty by Major](average_difficulty_by_major.png)
 
+## Difficulty by Computer Science Status
+
+! [Difficulty by CS Status] (lsqs_effective_by_major.png)
+
 ## Conclusion
 
 Overall, my analysis suggests that COMP110 is not perceived as extremely easy by all students. Even though students come from different majors and backgrounds, many reported the course as moderately difficult. This shows that beginner-friendly support and clear explanations could be helpful for a wide range of students.
