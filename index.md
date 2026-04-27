@@ -23,6 +23,8 @@ From my analysis, I found that students reported a range of difficulty levels fo
 
 When comparing average difficulty by major, the results were somewhat hard to interpret because there were many different majors represented. Some majors may also have had only a few students, so their averages may not be as reliable. Still, the graph helps show that perceived difficulty can vary depending on students’ academic background.
 
+The clearest comparison came from grouping students by computer science status. Students pursuing a CS B.S. reported slightly higher difficulty on average than some other groups, while CS B.A., CS minor, and non-CS students also reported difficulty in the upper-middle range. Overall, the data suggests that COMP110 is perceived as moderately challenging across groups, not only by non-CS students.
+
 ## Difficulty Distribution
 
 ![Difficulty Distribution](difficulty_distribution.png)
