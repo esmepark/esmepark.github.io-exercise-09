@@ -11,23 +11,23 @@ Hi, my name is Esme Park! I am a first-year student at UNC Chapel Hill. I am int
 
 ## Research Question
 
-How does students’ major relate to how difficult they perceive COMP110 to be?
+Do computer science majors report lower perceived difficulty in COMP110 compared to non-CS majors?
 
 ## Data Used
 
-For this project, I used survey data from COMP110 students. I focused on the `major` and `difficulty` columns to compare how students from different academic backgrounds rated the difficulty of the course. The difficulty scale ranged from 1 to 7, with higher values meaning students found the course more difficult.
+In this analysis, I will compare responses from computer science majors and non-computer science majors to determine whether their experiences in the course differ. If computer science majors respond differently on measures such as difficulty, value, and interest, this could support the idea that their feedback should be given special consideration when improving the course.
 
 ## Analysis and Findings
 
-From my analysis, I found that students reported a range of difficulty levels for COMP110. Many responses fell in the middle-to-high range of the scale, suggesting that students generally viewed the course as moderately challenging.
+From my analysis, I found that most computer science majors reported COMP110 as moderately difficult, with many responses falling around 4 or 5 on a 1–7 difficulty scale. This suggests that even students already interested in computer science did not necessarily view the class as extremely easy.
 
-When comparing average difficulty by major, the results were somewhat hard to interpret because there were many different majors represented. Some majors may also have had only a few students, so their averages may not be as reliable. Still, the graph helps show that perceived difficulty can vary depending on students’ academic background.
+When comparing average difficulty across majors, the results were harder to interpret because there were many different majors represented. Some majors had very small sample sizes, which may make their averages less reliable. However, the graph still shows that reported difficulty varies by academic background.
 
 The clearest comparison came from grouping students by computer science status. Students pursuing a CS B.S. reported slightly higher difficulty on average than some other groups, while CS B.A., CS minor, and non-CS students also reported difficulty in the upper-middle range. Overall, the data suggests that COMP110 is perceived as moderately challenging across groups, not only by non-CS students.
 
-## Difficulty Distribution
+## CS Major/Minor Distribution
 
-![Difficulty Distribution](difficulty_distribution.png)
+![CS Major/Minor Distribution](difficulty_distribution.png)
 
 ## Average Difficulty by Major
 
@@ -39,4 +39,4 @@ The clearest comparison came from grouping students by computer science status. 
 
 ## Conclusion
 
-Overall, my analysis suggests that COMP110 is not perceived as extremely easy by all students. Even though students come from different majors and backgrounds, many reported the course as moderately difficult. This shows that beginner-friendly support and clear explanations could be helpful for a wide range of students.
+From my analysis, COMP110 is a moderately difficult course for many students, including those pursuing computer science. Since no group consistently reports the course as easy, additional beginner-friendly support resources could help improve student understanding and success.
