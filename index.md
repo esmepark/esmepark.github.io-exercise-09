@@ -36,7 +36,7 @@ When comparing average difficulty by major, the results were somewhat hard to in
 
 ## Difficulty by Computer Science Status
 
-! [Difficulty by CS Status] (lsqs_effective_by_major.png)
+![Difficulty by CS Status](lsqs_effective_by_major.png)
 
 ## Conclusion
 
